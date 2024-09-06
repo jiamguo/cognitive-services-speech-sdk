@@ -37,7 +37,7 @@
             ],
             "time": "5min to run",
             "configuration": "Ready for debug",
-            "thumbnailPath": "assets/thumbnail.png",
+            "thumbnailPath": "https://raw.githubusercontent.com/jiamguo/cognitive-services-speech-sdk/extension/vscode_ext/img/asr_csharp.jpg",
             "gifPath": "assets/sampleDemo.gif",
             "suggested": false
         },
@@ -56,7 +56,7 @@
             ],
             "time": "5min to run",
             "configuration": "Ready for debug",
-            "thumbnailPath": "assets/thumbnail.png",
+            "thumbnailPath": "https://raw.githubusercontent.com/jiamguo/cognitive-services-speech-sdk/extension/vscode_ext/img/asr_js.jpg",
             "gifPath": "assets/sampleDemo.gif",
             "suggested": false
         },
@@ -75,7 +75,7 @@
             ],
             "time": "5min to run",
             "configuration": "Ready for debug",
-            "thumbnailPath": "assets/thumbnail.png",
+            "thumbnailPath": "https://raw.githubusercontent.com/jiamguo/cognitive-services-speech-sdk/extension/vscode_ext/img/asr_python.jpg",
             "gifPath": "assets/sampleDemo.gif",
             "suggested": true
         }   
