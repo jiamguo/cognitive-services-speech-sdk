@@ -46,7 +46,13 @@
             "gifPath": "assets/sampleDemo.gif", 
             "readmePath": "https://api.github.com/repos/Azure-Samples/cognitive-services-speech-sdk/contents/samples/batch/csharp/README.md",
             "githubPath": "https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/samples/batch/csharp",
-            "suggested": false
+            "suggested": false,
+            "downloadUrlInfo": {
+				"owner": "Azure-Samples",
+				"repository": "cognitive-services-speech-sdk",
+				"ref": "master",
+				"dir": "samples/batch/csharp"
+			}
         },
         {
             "id": "batch-transcription-from-blob-restapi-js",
@@ -72,8 +78,13 @@
             "gifPath": "assets/sampleDemo.gif",
             "readmePath": "https://api.github.com/repos/Azure-Samples/cognitive-services-speech-sdk/contents/samples/batch/js/node/README.md",
             "githubPath": "https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/samples/batch/js/node",
-            "suggested": false
-
+            "suggested": false,
+			"downloadUrlInfo": {
+				"owner": "Azure-Samples",
+				"repository": "cognitive-services-speech-sdk",
+				"ref": "master",
+				"dir": "samples/batch/js/node"
+			}
         },
         {
             "id": "batch-transcription-from-blob-restapi-python",
@@ -99,7 +110,13 @@
             "gifPath": "assets/sampleDemo.gif",
             "readmePath": "https://api.github.com/repos/Azure-Samples/cognitive-services-speech-sdk/contents/samples/batch/python/README.md",
             "githubPath": "https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/samples/batch/python",
-            "suggested": true
+            "suggested": true,
+			"downloadUrlInfo": {
+				"owner": "Azure-Samples",
+				"repository": "cognitive-services-speech-sdk",
+				"ref": "master",
+				"dir": "samples/batch/python"
+			}
         }   
     ]
 }
